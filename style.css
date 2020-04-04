@@ -1,0 +1,165 @@
+body {
+text-align:center;
+height: 100%;
+width:100%;
+
+
+}
+
+
+
+
+
+.grid-con > div {
+
+background-color:;
+
+
+
+}
+
+
+
+
+
+.grid-con {
+display: grid;
+grid-template-columns: 60% 40%;
+height: auto;
+width: auto;
+column-gap: 1em;
+
+
+}
+
+
+
+
+.grid1-con > div {
+
+background-color: ;
+
+}
+
+
+
+.grid1-con {
+
+display: grid;
+grid-template-rows: 1fr 2fr;
+row-gap: 1em;
+
+
+
+
+}
+
+
+
+
+.grid-con1 > div {
+
+background-color:;
+
+}
+
+
+
+
+.grid-con1 {
+display: grid;
+grid-template-columns: 5fr 5fr;
+column-gap:1em;
+
+
+
+}
+
+
+
+
+IMG {
+
+height: 10em;
+
+width: 100%;
+
+}
+
+
+
+#hiltz {
+
+width:50px;
+
+
+}
+
+
+.nav {
+background-color:rgba(35, 39, 65, 0.5);
+padding: 25px;
+margin-top: 0%;
+
+
+}
+
+
+
+
+a {
+text-decoration: none;
+margin: 5px;
+color: black;
+
+}
+
+
+
+
+.head {
+font-size: 35px;
+margin: 10px;
+font-family: Helvetica;
+color: #facdf4;
+
+}
+
+
+
+#deed {
+height: 30px;
+width: 30px;
+margin: 10px;
+
+
+
+}
+
+
+
+.wood {
+background-color:;
+margin:;
+
+
+}
+
+
+@media and screen (min-width: 600) {
+
+body {
+viewport: 100%;
+
+}
+
+IMG {
+height: auto;
+width: auto;
+
+
+}
+
+
+}
+
